@@ -14,4 +14,4 @@ Usage is easy. Put a picture of yourself you want to use in the "images" folder 
 
 # End Notes
 It doesn't really do much right now, which is fine. I hope to find an actual need for this at some point and integrate it then.
-Possibly something like image recognition or into a simple AI.
+Possibly something like object recognition or into a simple AI.
